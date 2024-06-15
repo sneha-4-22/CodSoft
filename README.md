@@ -31,7 +31,7 @@ Each task involves creating a machine learning model using different techniques 
 The goal of this task is to predict the genre of a movie based on its plot summary. We use techniques like TF-IDF for text vectorization and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
 #### Dataset 📂
-The dataset contains movie titles, genres, and plot summaries. You can download the dataset [here](link-to-dataset).
+The dataset contains movie titles, genres, and plot summaries. You can download the dataset [here](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb).
 
 #### Approach 🛠️
 1. Preprocess the text data by cleaning and tokenizing.
