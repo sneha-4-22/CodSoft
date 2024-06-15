@@ -42,7 +42,7 @@ The dataset contains movie titles, genres, and plot summaries. You can download 
 The objective is to build a model to detect fraudulent credit card transactions. We experiment with algorithms like Logistic Regression, Decision Trees, and Random Forests.
 
 #### Dataset 📂
-The dataset contains information about credit card transactions, including various transaction attributes and a label indicating whether the transaction is fraudulent. You can download the dataset [here](link-to-dataset).
+The dataset contains information about credit card transactions, including various transaction attributes and a label indicating whether the transaction is fraudulent. You can download the dataset [here](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 
 #### Approach 🛠️
 1. Preprocess the dataset.
@@ -53,7 +53,7 @@ The dataset contains information about credit card transactions, including vario
 The goal is to classify SMS messages as spam or legitimate. We use techniques like TF-IDF for text vectorization and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
 #### Dataset 📂
-The dataset contains SMS messages labeled as spam or legitimate. You can download the dataset [here](link-to-dataset).
+The dataset contains SMS messages labeled as spam or legitimate. You can download the dataset [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 #### Approach 🛠️
 1. Preprocess the text data.
